@@ -6,7 +6,7 @@ Project Euler Projects completed in Python
 |:--------:|:-------:|:----:|
 | Python Recipe | |[Is Palindrome](https://github.com/jbrdge/ProjectEulerSolutions/blob/master/Python/isPalindrome.py)|
 | Python Recipe | |[Is Prime](https://github.com/jbrdge/ProjectEulerSolutions/blob/master/Python/isPrime.py)|
-| Python Recipe | |[Sieve of Erastosthenes](https://github.com/jbrdge/ProjectEulerSolutions/blob/master/Python/sieveOfErastosthenes.py)|
+| Python Recipe | |[Sieve of Eratosthenes](https://github.com/jbrdge/ProjectEulerSolutions/blob/master/Python/sieveOfEratosthenes.py)|
 | Python Soultion |[Problem 1: Multiples of 3 and 5](https://projecteuler.net/problem=1)|[Solution](https://github.com/jbrdge/ProjectEulerSolutions/blob/master/Python/problem0001.py)|
 | Python Soultion |[Problem 2: Even Fibonacci Numbers](https://projecteuler.net/problem=2)|[Solution](https://github.com/jbrdge/ProjectEulerSolutions/blob/master/Python/problem0002.py)|
 | Python Soultion |[Problem 3: Largest Prime Factor](https://projecteuler.net/problem=3)|[Solution](https://github.com/jbrdge/ProjectEulerSolutions/blob/master/Python/problem0003.py)|
